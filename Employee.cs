@@ -8,5 +8,6 @@ public abstract class Employee{
     public virtual void  CalculateSalary(){
         // return salary;
     }
+    Console.WriteLine(hi)
  
 }
